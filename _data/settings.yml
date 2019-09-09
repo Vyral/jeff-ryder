@@ -1,6 +1,6 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
+title: Colorado Springs Real Estate Video Blog with Jeff Ryder
+description: Our mission at The Ryder Team is to be your best resource for Colorado Springs real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Ryder Team, your professional Colorado Springs Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -11,41 +11,41 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
+  name: Jeff Ryder
   title:
   license_number:
   about_markdown: |
-
-  brand:
-  brokerage:
-  market:
-  address:
-  phone:
+    Jeff Ryder moved to Colorado while serving in the US Army at Fort Carson as a Flight Paramedic. If he looks familiar, it might be due to his career before selling homes. After leaving the military, Jeff spent 5 years as a newscaster for television stations in Florida and Colorado. The last three in Colorado Springs at KKTV 11-News. Since leaving the TV business, Jeff has sold over 1,200 homes in the Colorado Springs area. Jeff is married to Stephanie and they have four boys. Alex, Clay, Kyle, and Colt.
+  brand: The Ryder Team
+  brokerage: Keller Williams Real Estate
+  market: Colorado Springs
+  address: 1257 Lake Plaza Drive, Suite 200 Colorado Springs, CO 80906
+  phone: 719-351-4312
   phone_type:
   phone2:
   phone2_type:
-  email:
+  email: JeffRyder@kw.com
   url:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://www.springshomelocator.com/sell.php
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://www.springshomelocator.com/index.php?rtype=list
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
+    CTA_title: "What’s Your Colorado Springs Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://www.springshomelocator.com/sell.php
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+    CTA_title2: "Looking for a Colorado Springs Home?"
+    CTA_text2: "Search the entire MLS for your Colorado Springs home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://www.springshomelocator.com/index.php?rtype=list
 
 lender:
   show_section: false
@@ -62,31 +62,31 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/pages/Springs-Home-Prices/181482872046559?ref=hl
+  linkedin_url: http://www.linkedin.com/pub/jeff-ryder/9/699/443
+  youtube_url: https://www.youtube.com/channel/UCIHi1MWbxKQlsLcIIdCcv8A
+  twitter_url: https://twitter.com/jryderrealtor
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: http://www.zillow.com/profile/JeffRyderTeam/
+  trulia_url: http://www.trulia.com/profile/jeff-ryder-team-agent-80921-373771/overview
+  yelp_url: http://www.yelp.com/biz/jeff-ryder-colorado-springs
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'Colorado Springs Real Estate Podcast with Jeff Ryder'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Colorado Springs Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Ryder Team - your professional Colorado Springs Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Jeff Ryder'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: Colorado Springs Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -95,7 +95,7 @@ images:
 
 site_colors:
   brand_color: '#b40101'
-  theme_color: '#999'
+  theme_color: '#211f20'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -104,7 +104,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: black
 
 buttons:
   button_radius_number: 0
