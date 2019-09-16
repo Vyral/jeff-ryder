@@ -29,23 +29,23 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.springshomelocator.com/sell.php
+  first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: /homevalue/
+  second_CTA_URL: https://www.springshomelocator.com/index.php?rtype=list
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your Colorado Springs Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: https://www.springshomelocator.com/sell.php
+    CTA_url: /homevalue/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "Looking for a Colorado Springs Home?"
     CTA_text2: "Search the entire MLS for your Colorado Springs home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homevalue/
+    CTA_url2: https://www.springshomelocator.com/index.php?rtype=list
 
 lender:
   show_section: false
