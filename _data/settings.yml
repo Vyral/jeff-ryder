@@ -31,7 +31,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: https://www.springshomelocator.com/sell.php
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.springshomelocator.com/index.php?rtype=list
+  second_CTA_URL: /homevalue/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -45,7 +45,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a Colorado Springs Home?"
     CTA_text2: "Search the entire MLS for your Colorado Springs home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: https://www.springshomelocator.com/index.php?rtype=list
+    CTA_url2: /homevalue/
 
 lender:
   show_section: false
