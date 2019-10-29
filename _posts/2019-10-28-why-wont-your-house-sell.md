@@ -24,8 +24,8 @@ However, what if your home isn’t one of them? What if your home became an expi
 
 When a home doesn’t sell, a homeowner usually does one of two things. One, they may elect to list it with the same agent, who performs the same actions, and gets the same result. In other words, it doesn’t sell. Or two, a homeowner may choose to rent out the house. However, if you like your home more than anyone else and you want to hang onto it, that’s fine.&nbsp;
 
-If you’re frustrated with everyone else’s home on the street selling and yours didn’t, you should allow me to look at it. I specialize in selling homes that didn’t sell the first time. **Often it takes just a few modest modifications to make all the difference** in the world. At 1:05 in the video above, watch to see a few examples of homes that didn’t sell right away, but with our adjustments sold quickly.&nbsp;
+If you’re frustrated with everyone else’s home on the street selling and yours not, you should allow me to look at it. I specialize in selling homes that didn’t sell the first time. **Often it takes just a few modest modifications to make all the difference** in the world. At 1:05 in the video above, watch to see a few examples of homes that didn’t sell right away, but with our adjustments sold quickly.&nbsp;
 
-Even in strong markets some homes don’t sell. If you’re one of them, don’t feel bad, give me a call, have me take a look at it. Have an expert who assists people whose homes didn’t sell the first time, get it sold.&nbsp;
+Even in strong markets some homes don’t sell. If you’re one of them, don’t feel bad. Just give me a call and have me take a look at it. Have an expert who assists people whose homes didn’t sell the first time, get it sold.&nbsp;
 
-If you have any further questions about why your home didn’t sell or anything else concerning real estate, feel free to reach out to me by phone or email, I would love to help you\!
+If you have any further questions about why your home didn’t sell or anything else concerning real estate, feel free to reach out to me by phone or email. I would love to help you\!
