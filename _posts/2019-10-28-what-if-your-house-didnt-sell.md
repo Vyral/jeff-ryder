@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Won’t Your House Sell?
+title: What If Your House Didn't Sell?
 date: 2019-10-28 00:00:00
 tags:
 excerpt: Today I’m sharing why some homes don’t get sold and how I can fix that.
