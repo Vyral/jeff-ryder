@@ -21,7 +21,7 @@ youtube_code: cvfIZWT2aDs
 
 Want to buy a home in Colorado Springs? Get in line.&nbsp;
 
-According to a report from the National Association of Realtors that polled 400 different communities, we ranked as the most difficult place to buy a home. This same report said that 11.1% of the people who live here are either actively looking for a house or are thinking of making a move sometime soon. What makes this situation challenging is that Colorado Springs is ranked very low in terms of difficulty for home sellers.
+According to a report from the National Association of Realtors that polled 400 different communities, we ranked as the most difficult place to buy a home. This same report said that 11.1% of the people who live here are either actively looking for a house or are thinking of making a move sometime soon. What makes this situation challenging is that Colorado Springs is ranked very low in terms of the amount of people selling a house.
 
 {% include pullquote.html %}
 
