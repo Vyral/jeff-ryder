@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Colorado Spring is No. 1...But That’s Bad News for You
+title: Colorado Spring is No. 1... But That’s Bad News for You
 date: 2020-01-02 00:00:00
 tags:
   - Real Estate
