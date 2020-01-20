@@ -9,13 +9,13 @@ excerpt: >-
   Homebuyers are lining up to buy homes in the Colorado Springs area. Here’s why
   that’s such great news for homeowners.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Jeff+Ryder/Videos/A+Fantastic+Market+for+Home+Sellers.mp4
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Ryder/Videos/A+Fantastic+Market+for+Home+Sellers+(1).mp4
 pullquote: Many people are out looking at homes right now.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/winter-yt-1.jpg
-youtube_code: Rf8GzCAER80
+youtube_code: yyjWTLHPaeM
 ---
 
 {% include youtube.html %}
