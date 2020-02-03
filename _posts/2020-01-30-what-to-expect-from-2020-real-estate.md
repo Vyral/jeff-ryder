@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/2020-yt.jpg
-youtube_code: prmxBbY7Dwo
+youtube_code: L7wTXq2tflQ
 ---
 
 {% include youtube.html %}
@@ -36,7 +36,7 @@ Now, here’s the big question: Is a recession possible?
 
 This same time last year, many were predicting that a recession was coming and that interest rates were going to rise—thank goodness neither of those came true\!
 
-In 2019, a manager from Goldman Sachs said, “\[...\] markets sounded the recession alarm this year, and the average forecaster now sees a 33% chance of a recession over the next year. In contrast, our new recession model suggests a 20% probability. Despite the record age of the expansion, the usual late-cycle problems—inflation and overheating financial imbalances—do not look threatening.”
+In 2019, a manager from Goldman Sachs said, “\[…\] markets sounded the recession alarm this year, and the average forecaster now sees a 33% chance of a recession over the next year. In contrast, our new recession model suggests a 20% probability. Despite the record age of the expansion, the usual late-cycle problems—inflation and overheating financial imbalances—do not look threatening.”
 
 **Here’s the bottom line:** Right now, mortgage rates are predicted to stay below 4%, which will cause the number of homes sold to increase. With a growing demand and a limited supply, it’s still going to be a challenging time to buy a home.
 
