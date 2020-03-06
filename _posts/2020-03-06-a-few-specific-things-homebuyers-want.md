@@ -1,14 +1,15 @@
 ---
 layout: post
 title: A Few Specific Things Homebuyers Want
-date: 2020-03-06 18:07:50
+date: 2020-03-06 18:07:00
 tags:
   - Home Seller Tips
   - Real Estate
 excerpt: >-
   There are two things that buyers want to have in a home, even in a competitive
   market like this. Here’s what they are.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Ryder/Videos/2020/A+Few+Specific+Things+Homebuyers+Want.mp4
 pullquote: 'In this kind of market, buyers have to make some sacrifices.'
 enclosure_type: video/mp4
 enclosure_time:
