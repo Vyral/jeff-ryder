@@ -19,7 +19,7 @@ youtube_code: cYS5QZXZ4-s
 
 {% include youtube.html %}
 
-There are two things that buyers want to have in a home, even in a competitive market like this. Here’s what they are.
+<em><p style="text-align:center">There are two things that buyers want to have in a home, even in a competitive market like this. Here’s what they are</p></em>
 
 You’ve been hearing me say for a while that the market is crazy with low inventory and high demand. Well, surprise\! That’s still the case today.&nbsp;
 
